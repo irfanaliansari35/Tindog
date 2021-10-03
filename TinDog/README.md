@@ -1,2 +1,10 @@
-UI clone of Tinder
-Used - HTML,CSS and Bootstrap
+
+#UI CLONE OF TINDER
+
+Technologies Used :
+
+1.HTML
+
+2.CSS
+
+3.Bootstrap(CSS framework)
